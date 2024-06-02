@@ -22,3 +22,6 @@ Interface must include elements like:<br>
 <li>Button 'Solve'</li>
 <li>Output field</li>
 <li>Exit button</li>
+<br>
+To create graphics use Matplotlib.pyplot
+<code>pip install Matplotlib</code><br>
